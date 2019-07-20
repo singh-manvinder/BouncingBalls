@@ -1,0 +1,27 @@
+{
+  "name": "bouncingballs",
+  "version": "1.0.0",
+  "description": "oo JS sample",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.35.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.6"
+  },
+  "scripts": {
+    "test": "npm test",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singh-manvinder/BouncingBalls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singh-manvinder/BouncingBalls/issues"
+  },
+  "homepage": "https://github.com/singh-manvinder/BouncingBalls#readme"
+}
