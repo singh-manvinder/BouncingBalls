@@ -4,10 +4,10 @@
   "description": "oo JS sample",
   "main": "index.js",
   "dependencies": {
-    "webpack": "^4.35.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^5.0.1"
   },
   "scripts": {
     "test": "npm test",
